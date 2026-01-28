@@ -2,7 +2,8 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/cnoe482/OSTicket-Setup)
 
 <!--
 **cnoe482/cnoe482** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
