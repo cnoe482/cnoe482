@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+We are going to do this
+
 <!--
 **cnoe482/cnoe482** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
