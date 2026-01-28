@@ -1,6 +1,6 @@
-## Hi there 👋
+<h1>Hi, I'm Chase, an <a href="[https://www.linkedin.com/in/chase-noe-08813017a/]">IT Professional</a>☺</h1>
 
-We are going to do this
+<h2>👨‍💻 Information Technology Projects:</h2>
 
 <!--
 **cnoe482/cnoe482** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
