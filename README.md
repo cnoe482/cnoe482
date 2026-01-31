@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>Setting up Azure Virtual Machine</b>
+  - [AzureVM: Setup](https://github.com/cnoe482/AzureVM-Setup)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/cnoe482/OSTicket-Setup)
 
